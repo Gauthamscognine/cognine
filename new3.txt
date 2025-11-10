@@ -1,3 +1,4 @@
 
-this is for checking merge conflicts and also re qriting the same content error .
+This is a third file and a new folder i made and did git clone 
+this is in samefile branch 
 
