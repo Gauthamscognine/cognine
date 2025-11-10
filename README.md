@@ -30,9 +30,6 @@ When we 2 developers are making changes in the same file and then one commits an
 In the file he can see 
 <!-- <<<<<<< HEAD
 console.log('My change');
-=======
-console.log('Teammate change');
->>>>>>> origin/main -->
 Now u can change the content of the file accordingly and then add , commit and then push 
 
 
