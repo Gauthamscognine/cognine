@@ -21,3 +21,19 @@ git push -u origin main
 git clone https://github.com/USERNAME/REPO-NAME.git
 
 
+
+
+
+## Having the same file content  conflict 
+
+When we 2 developers are making changes in the same file and then one commits and pushes and when another tries to push  , he gets merge conflicts 
+In the file he can see 
+<!-- <<<<<<< HEAD
+console.log('My change');
+=======
+console.log('Teammate change');
+>>>>>>> origin/main -->
+Now u can change the content of the file accordingly and then add , commit and then push 
+
+
+
