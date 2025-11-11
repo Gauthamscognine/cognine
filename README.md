@@ -33,5 +33,9 @@ console.log('My change');
 console.log('Teammate change');
 Now u can change the content of the file accordingly and then add , commit and then push 
 =======
-## practisng stash here 
->>>>>>> 31e2bb3e734a35b3734240a231bcf4276ffbdaf8
+Now u can change the content of the file accordingly and then add , commit and then push 
+
+
+
+
+>>>>>>> f88bb055e5be8fd952ce8f7fd1628a893aaff449
