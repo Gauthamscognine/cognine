@@ -28,14 +28,12 @@ git clone https://github.com/USERNAME/REPO-NAME.git
 
 When we 2 developers are making changes in the same file and then one commits and pushes and when another tries to push  , he gets merge conflicts 
 In the file he can see 
-<!-- <<<<<<< HEAD
+ <!-- <<<<<<< HEAD
 console.log('My change');
 console.log('Teammate change');
-Now u can change the content of the file accordingly and then add , commit and then push 
-=======
-Now u can change the content of the file accordingly and then add , commit and then push 
+Now u can change the content of the file accordingly and then add , commit and then push  -->
+## STASH 
+Basically if someone is working upon a feature and he wants to switch between branches with or without adding the files . so if we want to move from one feature branch to another without making an commit , then we can make
 
 
 
-
->>>>>>> f88bb055e5be8fd952ce8f7fd1628a893aaff449
