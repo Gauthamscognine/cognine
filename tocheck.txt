@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 this is made by pavan
-=======
-this is created by gautham 
->>>>>>> pracstash
